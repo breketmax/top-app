@@ -1,0 +1,21 @@
+.advantagesBlock{
+  margin-top: 50px;
+  .advantage{
+    .advantageTitle{
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 40px;
+      font-weight: bold;
+      font-size: 20px;
+      line-height: 27px;    
+      align-items: center;
+      margin-bottom: 10px;
+      margin-top: 30px;
+    }
+    .advantageDescription{
+      margin-left: 25px;
+      padding-left: 68px;
+      border-left: 1px solid #D2D2D2;
+    }
+  }
+}

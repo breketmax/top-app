@@ -1,0 +1,15 @@
+.searchField{
+  position: relative;
+  .searchInput{
+    width: 100%;
+  }
+  .searchButton{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top:3px;
+    right:3px;
+    padding: 7px;
+    cursor: pointer;
+  }
+}

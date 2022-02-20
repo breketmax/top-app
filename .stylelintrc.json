@@ -1,0 +1,16 @@
+{
+	"extends": [
+		"stylelint-config-standard",
+		"stylelint-config-recess-order"
+	],
+	"plugins": [
+		"stylelint-order"
+	],
+	"rules": {
+		"indentation": [
+			"tab"
+		],
+		"color-hex-case": "upper",
+    "font-family-name-quotes":"always-unless-keyword"
+	}
+}

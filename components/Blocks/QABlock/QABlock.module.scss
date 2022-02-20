@@ -1,0 +1,17 @@
+.qaBlock{
+  margin-top: 50px;
+  .questions{
+    margin-top: 20px;
+  }
+  .qa{
+    background: var(--white);
+    padding:30px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    margin-bottom: 20px;
+    .answer{
+      margin-top: 10px;
+    }
+  }
+
+}
