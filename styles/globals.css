@@ -19,14 +19,14 @@ a {
 :root {
 	--black: #3B434E;
 	--white: white;
-	--primary: #7351f5;
-	--gray: #6c7077;
-	--primary-hover: #5a39e2;
+	--primary: #7351F5;
+	--gray: #6C7077;
+	--primary-hover: #5A39E2;
 	--light-gray: #EBEBEB;
-	--light-gray-hover: #e0e0e0;
-	--green: #007c48;
+	--light-gray-hover: #E0E0E0;
+	--green: #007C48;
 	--red: #FC836D;
-	--light-red: #fdc4b9;
+	--light-red: #FDC4B9;
 	--light-green: #C8F8E4;
 	--font-family: "Noto Sans Display", sans-serif;
 }
